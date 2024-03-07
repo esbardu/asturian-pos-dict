@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.languagetool</groupId>
-    <artifactId>asturian-pos-tag</artifactId>
+    <artifactId>asturian-pos-dict</artifactId>
     <version>0.1</version>
     <url>https://languagetool.org</url>
     <name>Asturian part-of-speech dictionary</name>
@@ -21,10 +21,10 @@
 
     <developers>
         <developer>
-            <name>Jaume Ortolà</name>
-            <email>maven@languagetool.org</email>
-            <organization>LanguageTool</organization>
-            <url>https://languagetool.org/</url>
+            <name>Xesús González Rato</name>
+            <email>esbardu@softastur.org</email>
+            <organization>Softastur</organization>
+            <url>http://softastur.org</url>
         </developer>
     </developers>
 
@@ -33,7 +33,7 @@
     </properties>
 
     <scm>
-        <url>https://github.com/esbardu/asturian-pos-tag</url>
+        <url>https://github.com/esbardu/asturian-pos-dict</url>
     </scm>
 
     <distributionManagement>
