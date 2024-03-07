@@ -4,16 +4,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.languagetool</groupId>
-    <artifactId>french-pos-dict</artifactId>
-    <version>0.5</version>
+    <artifactId>asturian-pos-tag</artifactId>
+    <version>0.1</version>
     <url>https://languagetool.org</url>
-    <name>French part-of-speech dictionary</name>
-    <description>A French part-of-speech (POS) dictionary as a Morfologik binary</description>
+    <name>Asturian part-of-speech dictionary</name>
+    <description>An Asturian part-of-speech (POS) dictionary as a Morfologik binary</description>
 
     <licenses>
         <license>
-            <name>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</name>
-            <url>https://creativecommons.org/licenses/by-sa/4.0/</url>
+            <name>GNU GENERAL PUBLIC LICENSE Version 3</name>
+            <url>https://fsf.org/</url>
             <distribution>repo</distribution>
             <comments>data originally based on Morphy (http://morphy.wolfganglezius.de)</comments>
         </license>
@@ -33,7 +33,7 @@
     </properties>
 
     <scm>
-        <url>https://github.com/languagetool-org/french-pos-dict</url>
+        <url>https://github.com/esbardu/asturian-pos-tag</url>
     </scm>
 
     <distributionManagement>
